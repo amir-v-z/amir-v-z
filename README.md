@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amir-v-z&label=Profile%20views&color=00ff11&style=plastic" alt="amir-v-z" /> </p>
 
 - 🌱 I’m currently learning **Android programming with Android Studio**
+- 😄 <"https://www.google.com/search?q=%D8%A7%D9%85%DB%8C%D8%B1%D8%AD%D8%B3%DB%8C%D9%86+%D9%88%DA%A9%DB%8C%D9%84+%D8%B2%D8%A7%D8%AF%D9%87&oq=%D8%A7%D9%85%DB%8C%D8%B1%D8%AD%D8%B3%DB%8C%D9%86+%D9%88%DA%A9%DB%8C%D9%84+%D8%B2%D8%A7%D8%AF%D9%87&aqs=chrome..69i57j0i22i30j69i65j69i61.12083j0j1&sourceid=chrome&ie=UTF-8"> ⚡
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
