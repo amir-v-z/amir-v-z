@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm amir_v_z</h1>
 <h3 align="center">A passionate Programming Language developer from Iran</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amir-v-z&label=Profile%20views&color=00ff11&style=plastic" alt="amir-v-z" /> </p>
-
-- 🌱 I’m currently learning **Android programming with Android Studio**
+- 😄 I’m currently learning **Android programming with Android Studio**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
