@@ -11,8 +11,10 @@
 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="35" height="30"/></a>
 <img alt="Java" src="https://img.shields.io/badge/Java-f39c12.svg?style=for-the-badge&logoColor=white"/>
+
 <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="35" height="27"/></a>
 <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-6c5ce7.svg?style=for-the-badge&logoColor=white"/>
+
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="30"/></a>
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logoColor=white"/>
 
