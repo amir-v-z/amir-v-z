@@ -13,12 +13,16 @@
 ## 🛠 IDE
 
 <div float="right">
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
-  <img alt="Android Studio" src="https://img.shields.io/badge/AndroidStudio-00a8ff.svg?style=for-the-badge&logo=android-studio&logoColor=white"/>
-</div>
+  
+  <a><img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></a>
+    
+  <a><img alt="Android Studio" src="https://img.shields.io/badge/AndroidStudio-00a8ff.svg?style=for-the-badge&logo=android-studio&logoColor=white"/></a>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=amir-v-z&show_icons=true&theme=highcontrast&hide_border=true&locale=en&layout=compact" alt="amir-v-z" /></p>
+  <a><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/></a>
+  
+</div>
 
 ## 🖋 Authors
 - [@amir-v-z](https://www.github.com/amir-v-z)
+
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=amir-v-z&show_icons=true&theme=highcontrast&hide_border=true&locale=en&layout=compact" alt="amir-v-z" /></p>
