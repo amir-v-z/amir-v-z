@@ -27,19 +27,17 @@
 </h3>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,py,html,css,md" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=java,kotlin,py,html,css,md" />
 </p>
 
-<h3 align="center">🛠 IDE & Tools 🛠</h3>
+<h3 align="center">
+<img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="50">IDE & Tools<img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="50">
+</h3>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,idea,androidstudio,wordpress" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=git,github" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=vscode,idea,androidstudio,wordpress" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=git,github" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
