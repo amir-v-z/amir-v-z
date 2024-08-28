@@ -1,10 +1,5 @@
 <h1 align="center">
- <img src="https://media.giphy.com/media/MZXmFVrbMA1qSDNGOt/giphy.gif" width="30"> 
- Welcome to my GitHub profile
-</h1>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋;+I'm+amir+vakilzadeh!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=+Welcome+to+My+GitHub+Profile!;+Hi,+I'm+Amir+Vakilzadeh+👋;&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></img>
 </h1>
 
 <h3 align="center">
@@ -35,9 +30,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,idea,androidstudio,wordpress" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=git,github" />
+  <img src="https://skillicons.dev/icons?i=vscode,idea,androidstudio,wordpress,git,github" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -46,7 +39,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amir-v-z&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 
-<h2 align="left">🖋 Authors <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXc3ZmVrbDk1ejZveTlqOHozNnAxZjlvYnVpbnhkcnluODAycHJvZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9ZQ/UQDSBzfyiBKvgFcSTw/giphy.gif" width="28"></h2>
+<h2 align="left">🖋 Author <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXc3ZmVrbDk1ejZveTlqOHozNnAxZjlvYnVpbnhkcnluODAycHJvZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9ZQ/UQDSBzfyiBKvgFcSTw/giphy.gif" width="28"></h2>
 
 - <a href="https://www.github.com/amir-v-z">@amir-v-z</a>
 
