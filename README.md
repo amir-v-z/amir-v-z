@@ -35,6 +35,8 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<h3 align="center"><img src="https://media.giphy.com/media/C4b6GwFKbYxK8/giphy.gif?cid=ecf05e47axue4n3gtfghx2wxvptb00ghftejxfuog73eyrol&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30">My Selected Repositories <img src="https://media.giphy.com/media/qF1gI7mhLhnQunST3z/giphy.gif?cid=790b7611kfd142e44b05w49rb4daijcaqmggit5hcdua5fzd&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="60"> ریپازیتوری های منتخب من<img src="https://media.giphy.com/media/C4b6GwFKbYxK8/giphy.gif?cid=ecf05e47axue4n3gtfghx2wxvptb00ghftejxfuog73eyrol&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30"></h3>
+
 <p align="center">
   <a href="https://github.com/amir-v-z/Quera-answers/blob/main/README.md"><img width="32%" src="./images/QueraAnswers.png"></a>
   <a href="https://amir-v-z.github.io/Quera-answers"><img width="32%" src="./images/QueraSearch.png"></a>
@@ -44,9 +46,7 @@
   <a href="https://github.com/amir-v-z/Mini-projects-Css/blob/main/README.md"><img width="32%" src="./images/MiniProjectsCSS.png"></a>
 </p>
 
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amir-v-z&layout=compact&langs_count=7&theme=highcontrast"/>
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2 align="left">🖋 Author <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXc3ZmVrbDk1ejZveTlqOHozNnAxZjlvYnVpbnhkcnluODAycHJvZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9ZQ/UQDSBzfyiBKvgFcSTw/giphy.gif" width="28"></h2>
 
