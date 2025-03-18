@@ -11,7 +11,7 @@
 
 <h6 align="center">✔ A passionate Programming Language developer from Iran <img src="https://media.giphy.com/media/0CO50vUDy0pMHDaT7e/giphy.gif" width="30"> </h6>
 <h6 align="center">✔ Computer Engineering Student <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2hoeGh0eWx0am00eWxvMGp3N3FiemdnZTl1ZjB3bTVzazB1OTNqdSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/QaRZ8MCQqeN6RxwqVX/giphy.gif" width="35"></h6>
-<h3 align="center"><img src="https://media.giphy.com/media/igyJ5a55BIj1BfkxuJ/giphy.gif" width="50"><a href="https://quera.org/profile/amir_v_z">Quera</a></h3>
+<h3 align="center">My Other Profiles<img src="https://media.giphy.com/media/igyJ5a55BIj1BfkxuJ/giphy.gif" width="50"><a href="https://quera.org/profile/amir_v_z">Quera</a> <img src="https://media.giphy.com/media/ZIEqJCPv4D93FmUVTG/giphy.gif?cid=790b76119g44bmzkdk0jm9dn831uophtqwhcc20sk56ohwoy&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="25"> <a href="https://www.figma.com/@amir_v_z">Figma</a></h3>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
