@@ -35,6 +35,18 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<p align="center">
+  <a href="https://github.com/amir-v-z/Quera-answers"><img width="32%" src="./images/QueraAnswers.png"></a>
+  <a href="https://amir-v-z.github.io/Quera-answers"><img width="32%" src="./images/QueraSearch.png"></a>
+  <a><img width="32%" src="./images/Empoty.png"></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/amir-v-z/Mini-projects-python"><img width="32%" src="./images/MiniProjectsPython.png"></a>
+  <a href="https://github.com/amir-v-z/information"><img width="32%" src="./images/Information.png"></a>
+  <a href="https://github.com/amir-v-z/Mini-projects-Css"><img width="32%" src="./images/MiniProjectsCSS.png"></a>
+</p>
+
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amir-v-z&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
