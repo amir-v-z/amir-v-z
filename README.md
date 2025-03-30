@@ -40,7 +40,7 @@
 <p align="center">
   <a href="https://github.com/amir-v-z/Quera-answers/blob/main/README.md"><img width="32%" src="./images/QueraAnswers.png"></a>
   <a href="https://amir-v-z.github.io/Quera-answers"><img width="32%" src="./images/QueraSearch.png"></a>
-  <a><img width="32%" src="./images/Empoty.png"></a>
+  <a href="https://github.com/amir-v-z/Quera-Programming-Pilot-Code/blob/main/README.md"><img width="32%" src="./images/QueraProgrammingPilotCode.png"></a>
   <a href="https://github.com/amir-v-z/Mini-projects-python/blob/main/README.md"><img width="32%" src="./images/MiniProjectsPython.png"></a>
   <a href="https://github.com/amir-v-z/information/blob/main/README.md"><img width="32%" src="./images/Information.png"></a>
   <a href="https://github.com/amir-v-z/Mini-projects-Css/blob/main/README.md"><img width="32%" src="./images/MiniProjectsCSS.png"></a>
