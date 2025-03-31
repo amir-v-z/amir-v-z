@@ -46,10 +46,17 @@
   <a href="https://github.com/amir-v-z/Mini-projects-Css/blob/main/README.md"><img width="32%" src="./images/MiniProjectsCSS.png"></a>
 </p>
 
+<hr>
+
+<h3 align="left">Mini Project:</h3>
+<p align="left">
+  <a href="https://github.com/amir-v-z/Change-DNS-for-Windows/blob/main/README.md"><img width=30% src="./images/DnsChanger.png"></a>
+</p>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2 align="left">🖋 Author <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXc3ZmVrbDk1ejZveTlqOHozNnAxZjlvYnVpbnhkcnluODAycHJvZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9ZQ/UQDSBzfyiBKvgFcSTw/giphy.gif" width="28"></h2>
 
-- <a href="https://www.github.com/amir-v-z">@amir-v-z</a>
+- <a href="https://www.github.com/amir-v-z">amir-v-z</a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:50faaa,100:fa50e3&height=120&section=footer"/>
