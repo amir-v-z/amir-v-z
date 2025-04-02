@@ -44,6 +44,9 @@
   <a href="https://github.com/amir-v-z/Mini-projects-python/blob/main/README.md"><img width="32%" src="./images/MiniProjectsPython.png"></a>
   <a href="https://github.com/amir-v-z/information/blob/main/README.md"><img width="32%" src="./images/Information.png"></a>
   <a href="https://github.com/amir-v-z/Mini-projects-Css/blob/main/README.md"><img width="32%" src="./images/MiniProjectsCSS.png"></a>
+  <a href=""><img width="32%" src="./images/Empty.png"></a>
+  <a href="https://github.com/amir-v-z/Mini-projects-JS/blob/main/README.md"><img width="32%" src="./images/MiniProjectsJS.png"></a>
+  <a href=""><img width="32%" src="./images/Empty.png"></a>
 </p>
 
 <hr>
