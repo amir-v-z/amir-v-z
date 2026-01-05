@@ -10,7 +10,7 @@
 
 
 <h6 align="center">✔ A passionate Programming Language developer from Iran <img src="https://media.giphy.com/media/0CO50vUDy0pMHDaT7e/giphy.gif" width="30"> </h6>
-<h6 align="center">✔ Computer Engineering Student <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2hoeGh0eWx0am00eWxvMGp3N3FiemdnZTl1ZjB3bTVzazB1OTNqdSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/QaRZ8MCQqeN6RxwqVX/giphy.gif" width="35"></h6>
+<h6 align="center">✔ Master's Student in Artificial Intelligence <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2hoeGh0eWx0am00eWxvMGp3N3FiemdnZTl1ZjB3bTVzazB1OTNqdSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/QaRZ8MCQqeN6RxwqVX/giphy.gif" width="35"></h6>
 
 <h3 align="center">
 <a href="https://amir-v-z.page.gd/"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDNzdmlveWlibmZjNnZkdTJ5cHh1cTJ3cXN3MDRrazd5bnczZmFvNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JEBGI9Ucqpyo6Mi1RH/giphy.gif" width="200"></a>
