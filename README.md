@@ -40,7 +40,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h3 align="center">My Selected Repositories <img src="https://media.giphy.com/media/qF1gI7mhLhnQunST3z/giphy.gif?cid=790b7611kfd142e44b05w49rb4daijcaqmggit5hcdua5fzd&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="60"></h3>
+<h3 align="left">My Selected Repositories <img src="https://media.giphy.com/media/qF1gI7mhLhnQunST3z/giphy.gif?cid=790b7611kfd142e44b05w49rb4daijcaqmggit5hcdua5fzd&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50"></h3>
 
 - [Quera Answers](https://github.com/amir-v-z/Quera-answers/blob/main/README.md)
 - [Quera College (Pilot Code Programming Basics)](https://github.com/amir-v-z/Quera-Programming-Pilot-Code/blob/main/README.md)
@@ -51,16 +51,16 @@
 
 <hr>
 
-<h3 align="left">Mini Project:</h3>
+<h3 align="left">Mini Project :</h3>
 <p align="left">
-  <a href="https://github.com/amir-v-z/Change-DNS-for-Windows/blob/main/README.md"><img width=20% src="./images/DnsChanger.png"></a>
-  <a href="https://github.com/amir-v-z/LogoHide/blob/main/README.md"><img width=20% src="./images/LogoHide.png"></a>
+  <a href="https://github.com/amir-v-z/Change-DNS-for-Windows/blob/main/README.md"><img width=15% src="./images/DnsChanger.png"></a>
+  <a href="https://github.com/amir-v-z/LogoHide/blob/main/README.md"><img width=15% src="./images/LogoHide.png"></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2 align="left">🖋 Author <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXc3ZmVrbDk1ejZveTlqOHozNnAxZjlvYnVpbnhkcnluODAycHJvZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9ZQ/UQDSBzfyiBKvgFcSTw/giphy.gif" width="28"></h2>
 
-- <a href="https://www.github.com/amir-v-z">amir-v-z</a>
+- [amir-v-z](https://www.github.com/amir-v-z)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:50faaa,100:fa50e3&height=120&section=footer"/>
