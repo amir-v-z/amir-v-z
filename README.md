@@ -40,26 +40,21 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h3 align="center"><img src="https://media.giphy.com/media/C4b6GwFKbYxK8/giphy.gif?cid=ecf05e47axue4n3gtfghx2wxvptb00ghftejxfuog73eyrol&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30">My Selected Repositories <img src="https://media.giphy.com/media/qF1gI7mhLhnQunST3z/giphy.gif?cid=790b7611kfd142e44b05w49rb4daijcaqmggit5hcdua5fzd&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="60"> ریپازیتوری های منتخب من<img src="https://media.giphy.com/media/C4b6GwFKbYxK8/giphy.gif?cid=ecf05e47axue4n3gtfghx2wxvptb00ghftejxfuog73eyrol&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30"></h3>
+<h3 align="center">My Selected Repositories <img src="https://media.giphy.com/media/qF1gI7mhLhnQunST3z/giphy.gif?cid=790b7611kfd142e44b05w49rb4daijcaqmggit5hcdua5fzd&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="60"></h3>
 
-<p align="center">
-  <a href="https://github.com/amir-v-z/Quera-answers/blob/main/README.md"><img width="32%" src="./images/QueraAnswers.png"></a>
-  <a href="https://amir-v-z.github.io/Quera-answers"><img width="32%" src="./images/QueraSearch.png"></a>
-  <a href="https://github.com/amir-v-z/Quera-Programming-Pilot-Code/blob/main/README.md"><img width="32%" src="./images/QueraProgrammingPilotCode.png"></a>
-  <a href="https://github.com/amir-v-z/Mini-projects-python/blob/main/README.md"><img width="32%" src="./images/MiniProjectsPython.png"></a>
-  <a href="https://github.com/amir-v-z/information/blob/main/README.md"><img width="32%" src="./images/Information.png"></a>
-  <a href="https://github.com/amir-v-z/Mini-projects-Css/blob/main/README.md"><img width="32%" src="./images/MiniProjectsCSS.png"></a>
-  <a href=""><img width="32%" src="./images/Empty.png"></a>
-  <a href="https://github.com/amir-v-z/Mini-projects-JS/blob/main/README.md"><img width="32%" src="./images/MiniProjectsJS.png"></a>
-  <a href=""><img width="32%" src="./images/Empty.png"></a>
-</p>
+- [Quera Answers](https://github.com/amir-v-z/Quera-answers/blob/main/README.md)
+- [Quera College (Pilot Code Programming Basics)](https://github.com/amir-v-z/Quera-Programming-Pilot-Code/blob/main/README.md)
+- [Functional sites](https://github.com/amir-v-z/Functional-Sites/blob/main/README.md)
+- [Mini Projects Python](https://github.com/amir-v-z/Mini-projects-python/blob/main/README.md)
+- [Mini Projects Css](https://github.com/amir-v-z/Mini-projects-Css/blob/main/README.md)
+- [Mini Projects Js](https://github.com/amir-v-z/Mini-projects-JS/blob/main/README.md)
 
 <hr>
 
 <h3 align="left">Mini Project:</h3>
 <p align="left">
-  <a href="https://github.com/amir-v-z/Change-DNS-for-Windows/blob/main/README.md"><img width=30% src="./images/DnsChanger.png"></a>
-  <a href="https://github.com/amir-v-z/LogoHide/blob/main/README.md"><img width=30% src="./images/LogoHide.png"></a>
+  <a href="https://github.com/amir-v-z/Change-DNS-for-Windows/blob/main/README.md"><img width=20% src="./images/DnsChanger.png"></a>
+  <a href="https://github.com/amir-v-z/LogoHide/blob/main/README.md"><img width=20% src="./images/LogoHide.png"></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
