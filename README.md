@@ -52,8 +52,8 @@
 
 <h3 align="left">Mini Project :</h3>
 <p align="left">
-  <a href="https://github.com/amir-v-z/Change-DNS-for-Windows/blob/main/README.md"><img width="150" src="./images/DnsChanger.png"></a>
-  <a href="https://github.com/amir-v-z/LogoHide/blob/main/README.md"><img width="150" src="./images/LogoHide.png"></a>
+  <a href="https://github.com/amir-v-z/Change-DNS-for-Windows/blob/main/README.md"><img width=20% src="./images/DnsChanger.png"></a>
+  <a href="https://github.com/amir-v-z/LogoHide/blob/main/README.md"><img width=20% src="./images/LogoHide.png"></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
