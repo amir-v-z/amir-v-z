@@ -8,7 +8,6 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG1uaDljcnlsYnFlbDJkMTNxcHRzbjRwYnI0cXpuZjMxcHB1NDAxbSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/VfrLCmybNyDcVc5lfU/giphy.gif" width="30">
 </h3>
 
-
 <h6 align="center">✔ A passionate Programming Language developer from Iran <img src="https://media.giphy.com/media/0CO50vUDy0pMHDaT7e/giphy.gif" width="30"> </h6>
 <h6 align="center">✔ Master's Student in Artificial Intelligence <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2hoeGh0eWx0am00eWxvMGp3N3FiemdnZTl1ZjB3bTVzazB1OTNqdSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/QaRZ8MCQqeN6RxwqVX/giphy.gif" width="35"></h6>
 
@@ -53,8 +52,8 @@
 
 <h3 align="left">Mini Project :</h3>
 <p align="left">
-  <a href="https://github.com/amir-v-z/Change-DNS-for-Windows/blob/main/README.md"><img width=15% src="./images/DnsChanger.png"></a>
-  <a href="https://github.com/amir-v-z/LogoHide/blob/main/README.md"><img width=15% src="./images/LogoHide.png"></a>
+  <a href="https://github.com/amir-v-z/Change-DNS-for-Windows/blob/main/README.md"><img width="150" src="./images/DnsChanger.png"></a>
+  <a href="https://github.com/amir-v-z/LogoHide/blob/main/README.md"><img width="150" src="./images/LogoHide.png"></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
